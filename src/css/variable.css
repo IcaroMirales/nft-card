@@ -1,0 +1,7 @@
+:root {
+    --cor-padrao-textos: hsl(215, 51%, 70%);
+    --cor-links: hsl(0, 0%, 100%);
+    --cor-eth-hover: hsl(178, 100%, 50%);
+    --peso-padrao-textos: 300;
+    --peso-eth-titulo: 600;
+}
