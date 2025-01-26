@@ -41,6 +41,7 @@ body {
 .card .title-nft {
     font-size: 22px;
     margin: 20px 0;
+    display: inline-block;
 }
 
 .card .text-nft {
